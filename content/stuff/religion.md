@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = 'religion'
 description = "my thoughts on present religion, digressing to politics and critical thinking as appropriate"
 +++

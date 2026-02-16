@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = 'capital letters'
 description = "deprecation of capital letters in english"
 +++

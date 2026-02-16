@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 title = 'color wheel'
 description = "superiority of the rgb/cmy color wheel"
 +++
