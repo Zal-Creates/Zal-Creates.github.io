@@ -1,0 +1,17 @@
+baseURL = "https://example.com"
+languageCode = "en-us"
+title = "zal"
+theme = "risotto"
+
+[params]
+  author = "zal"
+
+[menu]
+  [[menu.main]]
+    name = "stuff"
+    url = "/stuff/"
+    weight = 1
+  [[menu.main]]
+    name = "tools"
+    url = "/tools/"
+    weight = 2

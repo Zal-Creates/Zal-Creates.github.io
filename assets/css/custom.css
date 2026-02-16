@@ -1,0 +1,16 @@
+.spoiler {
+  background-color: #111; /* dark background to match dark mode */
+  color: #111;            /* same as background so text is hidden */
+  cursor: pointer;
+  padding: 0 0.2em;
+  border-radius: 2px;
+  transition: color 0.2s;
+}
+
+.spoiler.revealed {
+  color: inherit;         /* text shows normal color once clicked */
+}
+
+main {
+  max-width: 60rem; /* try 60–70rem */
+}

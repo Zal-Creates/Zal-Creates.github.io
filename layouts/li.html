@@ -1,0 +1,6 @@
+<li>
+  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  {{ with .Params.description }}
+    – <span class="desc">{{ . }}</span>
+  {{ end }}
+</li>

@@ -1,0 +1,27 @@
+<div class="spoiler panel panel-default">
+  <div class="spoiler_block">
+
+    {{/* Optional header if text parameter provided */}}
+    {{ if (.Get "text") }}
+      <h4 class="spoiler_block_head">{{ .Get "text" | safeHTML }}</h4>
+    {{ end }}
+
+    {{/* Show button */}}
+    <a href="#" class="spoiler-block-icon spoiler-block-icon-zoom-in spoiler_block_show">
+      {{ with .Get "show" }}{{ . | safeHTML }}{{ else }}Click to reveal{{ end }}
+    </a>
+
+    {{/* Hide button, initially hidden */}}
+    {{ if .Inner }}
+      <a href="#" class="spoiler-block-icon spoiler-block-icon-zoom-out spoiler_block_hide" style="display: none;">
+        {{ with .Get "hide" }}{{ . | safeHTML }}{{ else }}hide{{ end }}
+      </a>
+    {{ end }}
+
+    {{/* Hidden content */}}
+    <div class="spoiler_block_content" style="display: none;">
+      {{ .Inner }}
+    </div>
+
+  </div>
+</div>
