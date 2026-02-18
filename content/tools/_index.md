@@ -14,7 +14,7 @@ firefox and brave allow you to use any search engine of your choice with better 
 
     -- opensourcify --
 
-[openalt](https://openalternative.co/), [opensourcealt](https://opensourcealternative.to): replace proprietary software with open source apps who aren't actively screwing over society - and save money. additional [adobe alternatives](https://github.com/KenneyNL/Adobe-Alternatives)
+[openalt](https://openalternative.co/), [opensourcealt](https://opensourcealternative.to): replace proprietary software with open source apps who aren't actively screwing over civilization - and save money. additional [adobe alternatives](https://github.com/KenneyNL/Adobe-Alternatives)
 
 {{< spoiler show="software companies to move away from">}} 
 microsoft, adobe, google, facebook/meta, twitter/x, amazon. more: https://tosdr.org/en/services/E
@@ -26,7 +26,7 @@ microsoft, adobe, google, facebook/meta, twitter/x, amazon. more: https://tosdr.
 
 [matrix](https://matrix.org/): the discord alternative
 
-    -- climate
+    -- climate --
 [comprehensive meat-related agriculture points](https://iffs.earth/food-economics/)
 
 [energy system map](https://studentenergy.org/map/)
@@ -66,6 +66,8 @@ google streetview is a fantastic resource for seeing what the rest of the world 
 [petition the suspension of the eu-israel agreement (eu citizens only)](https://eci.ec.europa.eu/055/public/#/screen/home)
 
 [yyyy-mm-dd hh:mm:ss date format](https://en.wikipedia.org/wiki/ISO_8601)
+
+[the anarchist library](https://theanarchistlibrary.org/special/index): anti-capitalism
 
 
 - 

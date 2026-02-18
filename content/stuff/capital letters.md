@@ -19,6 +19,6 @@ my suggestion is to use punctuation symbols for each. optimal symbols are not my
 
     also
 
-this would also contribute to early childhood literacy (through reduced glyphs), efficiency in 'ascii-like systems, keyboard layouts, fonts, etc. 
+this would contribute to early childhood literacy (through reduced glyphs), efficiency in 'ascii-like systems, keyboard layouts, fonts, etc. 
 
 [english symbol frequencies](https://www.researchgate.net/publication/8090755_Case-sensitive_letter_and_bigram_frequency_counts_from_large-scale_English_corpora)
