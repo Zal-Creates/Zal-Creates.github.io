@@ -1,11 +1,11 @@
 +++
 draft = false
 title = 'efficient communication & academia'
-description = ""
+description = "language & education"
 +++
 
     -- language is essential to civilization --
-one of the most important skills that set humans apart from other life is our capacity for complex language. the ability to share ideas and information allows the next generation to build upon the innovations of the previous, reaching greater and greater heights. over time, the mass of knowledge grows and grows, so progress requires people to become ultra-specialized in a specific field. the purpose of this should be twofold: advance the field and related technology further, and provide a concentrated blast of knowledge back to greater civilization. the second is where i feel we are most lacking currently; academic articles and even wikipedia are written with such passionate detail that the truly important idea never reaches an adequate audience. having those details available is priceless, but reading all of wikipedia is physically impossible. we need a group dedicated to collecting these concentrated blasts of knowledge and spreading them in an efficient and digestable format. a collection of information that every person should have to promote the improved functioning of civilization as a whole, especially as the education system fails to provide.
+one of the most important abilities that set humans apart from other life is our capacity for complex language. the skill of sharing ideas and information allows the next generation to build upon the innovations of the previous, reaching greater and greater heights. over time, the mass of knowledge grows and grows, so progress requires people to become ultra-specialized in a specific field. the purpose of this should be twofold: advance the field and related technology further, and provide a concentrated blast of knowledge back to greater civilization. the second is where i feel we are most lacking currently; academic articles and even wikipedia are written with such passionate detail that the truly important idea never reaches an adequate audience. having those details available is priceless, but reading all of wikipedia is physically impossible. we need a group dedicated to collecting these concentrated blasts of knowledge and spreading them in an efficient and digestable format. a collection of information that every person should have to promote the improved functioning of civilization as a whole, especially as the education system fails to provide.
 
 speaking of which, my suggestions for academia:
 
@@ -26,3 +26,6 @@ degree-based hiring and promotion. if someone has the skills required for a posi
 
     social skills and accepting differences
 schools need to teach effective communication strategies and foster kindness towards others. we are all just a mind stuffed inside a silly little meat suit, and we desperately need to stop discriminating against people for the very stupidest of reasons.
+
+    before all that...
+to even begin learning from others, we first must learn to communicate. literacy is different for everyone - nobody should feel forced to be a great reader, a great writer, a great listener, debater, speaker, leader, follower, demonstrator, or groupmate when they simply never will be. it isn't that these are unimportant skills, that teaching them is unimportant or cruel, that having a balanced skillset is stupid or silly, but rather that trying to stuff everyone into the same box completely fails to foster talents and highlights weaknesses and benefits no-one.  
