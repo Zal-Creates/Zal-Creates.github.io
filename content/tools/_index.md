@@ -69,7 +69,9 @@ google streetview is a fantastic resource for seeing what the rest of the world 
 
 [the anarchist library](https://theanarchistlibrary.org/special/index): anti-capitalism
 
+[wplace](https://wplace.live/?lat=56.16899559475839&lng=-134.21399447197265&zoom=13.832687363424954): giant pixel art map overlay
+
 
 - 
 
-dm me with more, wip
+dm me with more, wip. not really just tools anymore lol
