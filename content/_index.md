@@ -2,7 +2,7 @@
 title: "hellos"
 ---
 
-hellos, this site is a heavily opinionated and politicized collection dedicated to the open spread of ideas, opinions, and information. sfw but potentially triggering.. 
+hellos, this site is a heavily opinionated and politicized collection dedicated to the open spread of ideas, opinions, and information. sfw but potentially triggering.
 
     -- bio --
 
