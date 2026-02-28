@@ -1,7 +1,7 @@
 +++
 draft = false
 title = 'brainrot'
-description = "brainrot"
+description = "brainrot terms and content"
 +++
 
     the terms aren't that bad...
