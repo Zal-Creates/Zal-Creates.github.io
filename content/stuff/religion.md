@@ -1,7 +1,7 @@
 +++
 draft = false
 title = 'religion'
-description = "my thoughts on present religion, digressing to politics and critical thinking as appropriate"
+description = "my thoughts on current religion, digressing to politics and critical thinking as appropriate"
 +++
 
     -- areligiousity --
@@ -32,3 +32,11 @@ if you want to sacrifice your time and happiness in pursuit of a better future f
 if you want to live a happy, peaceful life entirely removed from the tumultuous battles of politics and social change, i enviously bid you the best of luck, asking only one thing: find multiple intelligent people around you who *are* invested in making life better, ask them who to vote for, and listen. an uneducated vote is the only thing worse than no vote at all. 
 
 [international right to ridicule religion](https://humanists.international/get-involved/resources/the-rights-of-non-religious-people/)
+
+areligious: i find religion's current state to be harmful
+
+antitheist: i find belief in deities illogical and harmful
+
+agnostic: i acknowledge the possibility of one or more deities existing in some form
+
+atheism is typically used in reference to the abscense of belief in deities, but can also encompass the belief that no deities exist. the latter does not apply to me, so i prefer antitheist.  

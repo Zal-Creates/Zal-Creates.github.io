@@ -2,19 +2,27 @@
 title: "tools"
 ---
 
-    -- browsing --
+    -- browsing & privacy --
 
-improve your online search experience, privacy, and autonomy with the following setup:
+improve your online search experience, privacy, security, and autonomy with the following setup:
 
-[brave](https://brave.com/) / [firefox dev ed](https://www.firefox.com/en-US/channel/desktop/developer/) browser + [ublock origin](https://github.com/gorhill/uBlock#ublock-origin) adblocker + brave/duckduckgo/ecosia search engine
+browser: [waterfox](https://www.waterfox.com/) / [firefox](https://www.firefox.com/en-US/channel/desktop/developer/) / [brave](https://brave.com/)
+
+search engine: [ddg](https://duckduckgo.com/) / [ecosia](https://www.ecosia.org/) / [brave](https://search.brave.com/) 
+
+adblock: [ublock origin](https://github.com/gorhill/uBlock#ublock-origin) (plus [pi-hole](https://pi-hole.net) for power users)
+
+passwords: [bitwarden](https://bitwarden.com/), or other *non-browser password manager*.
 
 {{< spoiler show="why this is so important">}}
-firefox and brave allow you to use any search engine of your choice with better privacy and customization. firefox is open source, but brave comes pre-configured better. they're the 2 best options i've identified - the switch is easy, you can import your settings/bookmarks/etc from most browsers. the switch should take <30 minutes, and minimally leaving mainstream browsers & engines is the first thing everyone should do today to widen their sources of information. get away from google and bing especially!! adblockers (such as ublock) reduce the amount that websites are able to track you, as well as stifling the manipulative nature of advertising (which affects everyone, regardless of our awareness) and avoiding avoid malicious sites. consider using a password manager like bitwarden too, rather than browser defaults. 
+these browsers allow you to use any search engine of your choice with improved privacy and customization. fire/waterfox are open source, but brave comes pre-configured better. the switch should take <15 minutes, and leaving google/microsoft/apple browsing is the first thing everyone should do today to widen their sources of information. adblockers (such as ublock) reduce the amount that websites are able to track you, as well as stifling the manipulative nature of advertising (which affects everyone, regardless of our awareness) and avoiding malicious sites. use an independant password manager rather than browser defaults to avoid security risks. 
 {{< /spoiler >}}
 
     -- opensourcify --
 
 [openalt](https://openalternative.co/), [opensourcealt](https://opensourcealternative.to): replace proprietary software with open source apps who aren't actively screwing over civilization - and save money. additional [adobe alternatives](https://github.com/KenneyNL/Adobe-Alternatives)
+
+[matrix](https://matrix.org/try-matrix/), the open source discord alternative! 
 
 {{< spoiler show="software companies to move away from">}} 
 microsoft, adobe, google, facebook/meta, twitter/x, amazon. more: https://tosdr.org/en/services/E
@@ -23,8 +31,6 @@ microsoft, adobe, google, facebook/meta, twitter/x, amazon. more: https://tosdr.
 {{< spoiler show="spotify -> ytm -> tidal">}}
  run ytm/spotify in browser to adblock. tidal is a higher-quality paid alternative with the best artist royalties. ytm/spotify premium are scamming you and artists, don't fall for it. both spotify and youtube run propagandised adverts; spotify is marginally worse 
 {{< /spoiler >}}  
-
-[matrix](https://matrix.org/): the discord alternative
 
     -- climate --
 [comprehensive meat-related agriculture points](https://iffs.earth/food-economics/)
@@ -41,7 +47,7 @@ microsoft, adobe, google, facebook/meta, twitter/x, amazon. more: https://tosdr.
 
 [lojban](https://lojban.io/): fully logical, machine-readable language
 
-[list of more conlangs](https://langmaker.github.io/conlangs.htm)
+[list of more conlangs](https://database.conlang.org/)
 
     -- maps --
 
@@ -55,21 +61,23 @@ google streetview is a fantastic resource for seeing what the rest of the world 
 
 [pronouns.page](https://en.pronouns.page/links): great resource for learning about lgbtqia+ and pronouns! visit their blogs too
 
-[sci-hub](https://sci-hub.st/): academic papers free
+[sci-hub](https://sci-hub.st/): academic papers free, under the principles of the [guerilla open access movement](https://en.wikipedia.org/wiki/Guerilla_Open_Access_Manifesto)
 
-[more webrings](https://tuffgong.nekoweb.org/webring-list.html)
+[webrings](https://tuffgong.nekoweb.org/webring-list.html): cool personal websites
 
 [gumroad](https://gumroad.com/): cool digital marketplace with free+donation option
 
 [f-droid](https://f-droid.org/): android app loader
 
-[petition the suspension of the eu-israel agreement (eu citizens only)](https://eci.ec.europa.eu/055/public/#/screen/home)
+[petition the suspension of the eu-israel agreement](https://eci.ec.europa.eu/055/public/#/screen/home): (eu citizens only)
 
-[yyyy-mm-dd hh:mm:ss date format](https://en.wikipedia.org/wiki/ISO_8601)
+[yyyy-mm-dd hh:mm:ss](https://en.wikipedia.org/wiki/ISO_8601): date format
 
 [the anarchist library](https://theanarchistlibrary.org/special/index): anti-capitalism
 
 [wplace](https://wplace.live/?lat=56.16899559475839&lng=-134.21399447197265&zoom=13.832687363424954): giant pixel art map overlay
+
+
 
 
 - 
