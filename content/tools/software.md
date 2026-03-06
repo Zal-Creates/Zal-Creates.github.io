@@ -5,15 +5,13 @@ description = "assorted software that i personally use and endorse"
 +++
 
     pc:
-[chocolatey](https://chocolatey.org/): package manager - install 🍫 software with "choco install [listed-name]"
+[chocolatey](https://chocolatey.org/): package manager - install 🍫 software with it
 
 🍫[darktable](https://www.darktable.org/): adobe lightroom alternative (photography post-production)
 
 🍫[docker-desktop](https://www.docker.com/): containers and power user stuff
 
 🍫[localsend](https://localsend.org/): local network file transfer
-
-🍫[waterfox](https://www.waterfox.com/): fork of firefox, cool customization stuff
 
 🍫[godot](https://godotengine.org/): game engine
 
