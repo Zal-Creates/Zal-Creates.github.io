@@ -65,7 +65,7 @@ google streetview is a fantastic resource for seeing what the rest of the world 
 
 [webrings](https://tuffgong.nekoweb.org/webring-list.html): cool personal websites
 
-[gumroad](https://gumroad.com/): cool digital marketplace with free+donation option
+[gumroad](https://gumroad.com/): cool digital marketplace
 
 [petition the suspension of the eu-israel agreement](https://eci.ec.europa.eu/055/public/#/screen/home): (eu citizens only)
 
